@@ -8,6 +8,7 @@ public class Demo1 {
 		System.err.println("gou");
 		System.out.println("mmmmmmmmmmmmm");
 
+		System.out.println("∑÷÷ß");
 	}
 }
 
