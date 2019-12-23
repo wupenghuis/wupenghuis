@@ -5,6 +5,7 @@ public class Demo1 {
 		System.err.println("aaaaaaaaaa");
 		System.out.println("vvvvvvvvvvvvv");
 		System.err.println("gou");
+		System.out.println("mmmmmmmmmmmmm");
 	}
 }
 
