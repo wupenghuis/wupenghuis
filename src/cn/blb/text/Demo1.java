@@ -8,7 +8,7 @@ public class Demo1 {
 		System.out.println("worldworld");
 		
 		System.out.println("µÂÂêÎ÷ÑÇ");
-		System.out.println("------------");
+		System.out.println("sssssssssssssss");
 		
 	}
 }
