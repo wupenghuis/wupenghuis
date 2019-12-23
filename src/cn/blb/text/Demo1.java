@@ -10,6 +10,9 @@ public class Demo1 {
 		System.out.println("dd");
 
 		System.out.println("sbbbbbbbbb");
+		
+		System.out.println("∑÷÷ß");
+		System.out.println("mike");
 	}
 }
 
